@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Console Module"""
 import cmd
-from models import storage
+from models import file_storage
 import re
 from shlex import split
 from models.base_model import BaseModel
